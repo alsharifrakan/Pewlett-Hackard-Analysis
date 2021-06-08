@@ -202,4 +202,8 @@ FROM current_emp as ce
 INNER JOIN dept_emp AS de
 ON (ce.emp_no = de.emp_no)
 INNER JOIN departments AS d
+<<<<<<< HEAD
 ON (de.dept_no = d.dept_no);
+=======
+ON (de.dept_no = d.dept_no);
+>>>>>>> d7cb2f4b14c6d4be3e1c8e47dc5269e3aad9ff36
