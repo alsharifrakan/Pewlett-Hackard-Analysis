@@ -41,6 +41,7 @@ employees for each title and help idenitify employees who are eligible to partic
 
 ## **Summary**
 
-
+From our analysis we found that  a very small percentage of th employees are eligible for the mentorship program and tha the company will be facing a huge shortage of employees
+since we have a huge number of retirment eligible employees. this Analysis is crucial to hel management avoid a very bad scenario and start working to solve a potential crisis.
 
 
