@@ -12,19 +12,19 @@ employees for each title and help idenitify employees who are eligible to partic
 -We were able to create a table (Unique_titles) which shows us the most recent title for employees of retirment age.
 
 
-![](images/Chart.png)
+![](images/unique_titles.png)
 
 
 -We were to able to creat a table (retiring_titles) which helped us figure out that more than half of the employees of retiring age have senior titles.
 
 
-![](images/Chart.png)
+![](images/retiring_titles.png)
 
 
 
--In the retirment_titles table that we have created it enabled us to see every employee who is eligible for retirment and their tenure for every title they had within their career.
+-In the retirement_titles table that we have created it enabled us to see every employee who is eligible for retirment and their tenure for every title they had within their career.
 
 
-![](images/Chart.png)
+![](images/retirement_titles.png)
 
 
