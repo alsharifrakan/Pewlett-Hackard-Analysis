@@ -28,7 +28,7 @@ employees for each title and help idenitify employees who are eligible to partic
 ![](images/retirement_titles.png)
 
 
-- In the Mentorship_eligibility table that we have created we can notice that 
+- In the Mentorship_eligibility table that we have created we can notice that we have 1549 employees who are eligible for the mentorship progam.
 
 
 ![](images/mentorship_elegibility.png)
